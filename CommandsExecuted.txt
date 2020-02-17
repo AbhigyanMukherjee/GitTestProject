@@ -1,0 +1,32 @@
+    1  git --ver
+    2  git --version
+    3  git --commit
+    4  git --version
+    5  git --help
+    6  git --update
+    7  pwd
+    8  git config --global user.name "abhigyan_mukherjee"
+    9  git config --global user.email "abhigyan_mukherjee@persistent.com"
+   10  git config --global user.email "abhigyan_mukherjee@persistent.co.in"
+   11  git config --list
+   12  git config --global core.editor "notepad++"
+   13  git config --list
+   14  echo '*log' >>Log.txt
+   15  git init
+   16  git stattus
+   17  git status
+   18  git log
+   19  git add File1.txt
+   20  git status
+   21  git commit -m "File1 created with hello World"
+   22  git status
+   23  git status
+   24  git add -a
+   25  git add -A
+   26  git status
+   27  git commit -m "File1 modified for login features"
+   28  git status
+   29  history
+   30  history >> CommandsExecuted.txt
+   31  git log
+   32  history > CommandsExecuted.txt
