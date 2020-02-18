@@ -4,6 +4,10 @@
 
 3. File 2 to test push on local
 
-4. Change by teammate on remote repository
 
-5. Change to test rebase on remote repo by teammate
+4. Change -> by teammate on remote repository
+
+5. Change -> to test rebase on remote repo by teammate
+
+6. Change -> to test rebase on local repository
+
