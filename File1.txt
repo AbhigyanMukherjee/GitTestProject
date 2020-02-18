@@ -4,4 +4,8 @@ Change : for Login feature
 
 Change -> to fix bug
 
+
 Change -> To test 3 way merge for change By teammate for some feature
+
+Change -> To fix bug 2
+
